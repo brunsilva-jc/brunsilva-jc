@@ -48,9 +48,9 @@ Developer with solid experience in backend and full-stack development, specializ
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunsilva-jc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunsilva-jc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff)
 
 ---
 
