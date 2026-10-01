@@ -43,7 +43,7 @@ CI/CD · Coolify
 |---|---|---|
 | [Document Intelligence Miner](https://github.com/brunsilva-jc/document-intelligence-miner) | RAG API over documents: ingestion, chunking and embeddings stored in PostgreSQL/pgvector, LLM answers with source citations. Layered architecture, API-key auth, rate and cost limits, data retention and observability. | Python, FastAPI, PostgreSQL, pgvector, LangChain, Alembic |
 | [Enterprise OCI Backup Automation](https://github.com/brunsilva-jc/Automate-OCI-backups) | Production-grade backup automation to Oracle Cloud: compression, AES-256 encryption, retention policies, retries, verification, reports and webhook notifications. | Bash, OCI Object Storage |
-| [Microservices E-commerce Platform](https://github.com/brunsilva-jc/microservices-ecommerce) | E-commerce backend split into API Gateway, Auth (JWT/RBAC), Product, Order and Cart services, with Redis caching, OpenAPI docs and CI. | TypeScript, Koa, MongoDB, Redis, Docker, GitHub Actions |
+| [Microservices E-commerce Platform](https://github.com/brunsilva-jc/microservices-ecommerce) | Microservices e-commerce backend (in progress): complete Auth service — JWT with refresh tokens, RBAC, Redis-backed rate limiting, Swagger and tests — plus a product catalog with Redis caching. CI runs tests against MongoDB and Redis. | TypeScript, Koa, MongoDB, Redis, Docker, GitHub Actions |
 | [FastAPI User Management](https://github.com/brunsilva-jc/fastapi-user-management) | User management REST API with SQLAlchemy ORM, validation, environment-based config and containerized PostgreSQL. | Python, FastAPI, PostgreSQL, SQLAlchemy, Docker |
 
 ## 🌎 Languages
